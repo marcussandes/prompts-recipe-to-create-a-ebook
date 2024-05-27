@@ -25,7 +25,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<https://github.com/marcussandes/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20desvendando%20a%20introdu%C3%A7%C3%A3o%20alimentar.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -41,8 +41,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | crie um titulo de ebook épico e curto com o tema: "Introdução alimentar para bebês" onde o público alvo serão as mães                                                        |
-| conteúdo | Crie capitulos simples e didatico sobre os temas: Dicas e Orientações Gerais,
-Mitos e verdades sobre a introdução alimentar.
+| conteúdo | Crie capitulos simples e didatico sobre os temas: Dicas e Orientações Gerais, Mitos e verdades sobre a introdução alimentar.
  |
 
 
