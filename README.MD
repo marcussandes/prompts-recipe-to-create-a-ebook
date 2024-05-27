@@ -25,7 +25,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<"https://github.com/marcussandes/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20desvendando%20a%20introdu%C3%A7%C3%A3o%20alimentar.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href: "https://github.com/marcussandes/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20desvendando%20a%20introdu%C3%A7%C3%A3o%20alimentar.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
